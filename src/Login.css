@@ -1,0 +1,12 @@
+.login > button {
+    text-transform: inherit !important;
+    color: black;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.login > button:hover {
+    text-transform: inherit !important;
+    color: black;
+    background-color: #d7d8ce;
+    border-radius: 20px;
+}
